@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">kepkimy</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_orders">Мои заказы</string>
+    <string name="_89475934">89475934</string>
+    <string name="date">Дата</string>
+    <string name="status">Статус:</string>
+    <string name="number_date">03.06.2021</string>
+    <string name="status_mode">В дороге</string>
+</resources>
